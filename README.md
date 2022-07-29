@@ -1,4 +1,4 @@
 # Scriptable
 
-zi'y仓库
-```ini
+自用仓库
+
